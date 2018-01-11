@@ -1,0 +1,120 @@
+html {
+    font-family: 'Ubuntu';
+    font-size: 14pt;
+    background-color: #ffffff;
+    padding: 0;
+    margin: 0;
+	}
+
+h1 {
+    color: #EF551F;
+    font-size: 60px;
+} 
+
+h2 {
+    color: #EF551F;
+}
+
+h3 {
+    color: #EF551F;
+    font-family: 'Ubuntu Medium 500'
+    font-size: 24px;
+}
+
+.boiteblanche {
+    height: 230px;
+	margin-left: 240px;
+    padding-left: 20px;
+    background-color: #ffffff;
+    }
+
+
+.celluletable {
+    width: 50%;
+    background-color: #17A598;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    border: 1px black solid;
+    }
+
+.cellulecadre {
+    width: 19%;
+}
+
+.lignetable {
+    width: 80%;
+    margin-left: 240px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.lignetablecouleur {
+    width: 80%;
+    margin-left: 240px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #17A598;
+    border: 1px black solid;
+}
+
+.cadregauche {
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #17A598;
+    border: 1px black solid;
+    }
+ 
+.colonnegauche {
+	float: left;
+    width: 235px;
+    height: 2000px;
+    margin: 10px;
+	}
+
+.colonnedroite {
+    margin-left: 240px;
+    margin: 10px;
+    }
+
+.telecharge {
+    float: right;
+    margin-right: 5px;
+    }
+
+.logo {
+    margin: 20px;
+    text-align: center;
+}
+
+#nom {
+    text-align: center;
+}
+
+#citation {
+    font-size: 18px;
+}
+
+#photoportrait {
+    border:1px solid black;
+    margin-left: 5px;
+}
+
+#reseau {
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #EF551F;
+    border: 1px black solid;
+    color: #17A598;
+    text-align: center;
+}
